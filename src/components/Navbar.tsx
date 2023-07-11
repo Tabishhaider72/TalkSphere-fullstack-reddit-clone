@@ -20,6 +20,16 @@ const Navbar = async () => {
         {/* search bar */}
         <SearchBar />
 
+         {/* GitHub repository button */}
+         <a
+          href='https://github.com/SayedTabish72/talksphere-fullstack-reddit-clone'
+          target='_blank'
+          rel='noopener noreferrer'
+          className={buttonVariants()}
+        >
+          GitHub
+        </a>
+
         {/* actions */}
         {session?.user ? (
           <UserAccountNav user={session.user} />
