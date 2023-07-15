@@ -1,6 +1,6 @@
-# Breadit - A Fullstack Reddit Clone
+# TalkSphere - A Fullstack Reddit Clone
 
-Breadit is a full-stack web application inspired by Reddit, built using Next.js 13, React, Tailwind CSS, Authentication, Prisma, and MySQL. It provides a platform for users to create communities, post content, engage in discussions, and vote on posts.
+TalkSphere is a full-stack web application inspired by Reddit, built using Next.js 13, React, Tailwind CSS, Authentication, Prisma, and MySQL. It provides a platform for users to create communities, post content, engage in discussions, and vote on posts.
 
 ![TalkSphere Preview](![WhatsApp Image 2023-07-10 at 21 39 22](https://github.com/SayedTabish72/talksphere-fullstack-reddit-clone/assets/93794214/727a6568-fe6a-4aa2-a34c-4738d4a05b95)
 )
